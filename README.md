@@ -18,7 +18,7 @@
 <ins>__Impact:__</ins> The dashboard provides a quick overview of findings from the data set and the accessibility to dig deeper into each section of the analysis.  
 <ins>__Tools & Technology:__</ins>  __PowerBI__, Relational Databases  
 
-<img src="https://github.com/mahipal-z/Mahipal-s-Portfolio/blob/main/images/powerbi.PNG" width="550" height="350">
+<img src="/images/powerbi.PNG" width="550" height="350">
 
 ### [3. Retail store KPI Dashboard](https://public.tableau.com/app/profile/mahipal.zanakat/viz/RetailStoreKPIDashboard) 
 ----
