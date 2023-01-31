@@ -1,5 +1,7 @@
 # Mahipal Z. Project Portfolio
 
+Listed below are the data driven projects I have worked on. This page describes how various business problems can be solved with the help of data science tools and technology. 
+
 ## PART-1: Data Analysis and Visualization
 
 ### [1. Exploratory data analysis of the top 400 video games released since 1977](https://github.com/mahipal-z/Videogames-EDA/blob/main/notebook.ipynb)
