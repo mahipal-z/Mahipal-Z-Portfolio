@@ -8,7 +8,7 @@
 <ins>__Impact:__</ins> The findings from this analysis provides insights to developer team that helps them finalize the Game Design Document during the pre-production stage.  
 <ins>__Tools & Technology:__</ins>  __Relational databases__, __PostgreSQL__  
 
-![](https://github.com/mahipal-z/Mahipal-s-Portfolio/blob/main/images/videogames.jpg)
+![](/images/videogames.jpg)
 
 ### [2. Identifying key factors influencing heart disease using 2020 annual CDC survey data of 400k adults](https://www.youtube.com/watch?v=sMiuQQ0Qyz0&ab_channel=MahipalZanakat)
 ----
