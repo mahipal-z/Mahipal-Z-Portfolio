@@ -28,7 +28,7 @@
 <ins>__Impact:__</ins> The report provides a sneak peek of sales and profit numbers in different regions of the United States with filtering ability to categorize and group data.   
 <ins>__Tools & Technology:__</ins>  __Tableau__, Donut charts, Maps  
 
-![](/images/tableau.PNG")
+![](/images/tableau.PNG)
 
 ### [4. Comprehensive analysis of the android app market by comparing over 10,000 apps in Play Store](https://github.com/mahipal-z/playstore-apps-eda/blob/main/Android%20App%20Market%20EDA.ipynb)
 ----
