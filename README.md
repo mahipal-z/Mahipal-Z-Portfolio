@@ -1,5 +1,3 @@
-# Mahipal's Portfolio
-
 ## Data Analysis and Visualization
 
 ### 1. Exploratory data analysis of the top 400 video games released since 1977
