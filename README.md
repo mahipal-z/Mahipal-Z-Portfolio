@@ -1,6 +1,6 @@
-# Mahipal Z. Project Portfolio
 
-Listed below are the data driven projects I have worked on. This page gives an idea about how various business problems can be solved with the help of data science tools and technology. 
+
+__Listed below are the data driven projects I have worked on. This page gives an idea about how various business problems can be solved with the help of data science tools and technology.__ 
 
 ## PART-1: Data Analysis and Visualization
 
