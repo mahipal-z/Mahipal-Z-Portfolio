@@ -18,7 +18,7 @@
 <ins>__Impact:__</ins> The dashboard provides a quick overview of findings from the data set and the accessibility to dig deeper into each section of the analysis.  
 <ins>__Tools & Technology:__</ins>  __PowerBI__, Relational Databases  
 
-<img src="/images/powerbi.PNG" width="550" height="350">
+![](/images/powerbi.PNG)
 
 ### [3. Retail store KPI Dashboard](https://public.tableau.com/app/profile/mahipal.zanakat/viz/RetailStoreKPIDashboard) 
 ----
@@ -28,7 +28,7 @@
 <ins>__Impact:__</ins> The report provides a sneak peek of sales and profit numbers in different regions of the United States with filtering ability to categorize and group data.   
 <ins>__Tools & Technology:__</ins>  __Tableau__, Donut charts, Maps  
 
-<img src="/images/tableau.PNG" width="550" height="400">
+![](/images/tableau.PNG")
 
 ### [4. Comprehensive analysis of the android app market by comparing over 10,000 apps in Play Store](https://github.com/mahipal-z/playstore-apps-eda/blob/main/Android%20App%20Market%20EDA.ipynb)
 ----
@@ -60,7 +60,7 @@ Also, provided an experimenter tool that provides resource allocation solution t
 <ins>__Impact:__</ins> This model offers the Blood Transfusion Service Center in Hsin-Chu City in Taiwan a more realistic estimate of the number of donors to expect, allowing them to derive a more accurate forecasting of future blood supply and take appropriate action to address potential shortages.    
 <ins>__Tools & Technology:__</ins>  Python, Scikit-Learn, Jupyter Notebook  
 
-<img src="/images/blood.PNG" width="600" height="450">
+![](/images/blood.PNG)
 
 ### 7. [Rating Prediction for a Recipe Website](https://github.com/mahipal-z/Recipe-Rating-Prediction/blob/main/notebook.ipynb)
 ----
