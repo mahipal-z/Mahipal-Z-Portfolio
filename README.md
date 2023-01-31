@@ -1,4 +1,6 @@
-## Data Analysis and Visualization
+# Mahipal Z. Project Portfolio
+
+## PART-1: Data Analysis and Visualization
 
 ### [1. Exploratory data analysis of the top 400 video games released since 1977](https://github.com/mahipal-z/Videogames-EDA/blob/main/notebook.ipynb)
 ----
@@ -50,7 +52,7 @@ Also, provided an experimenter tool that provides resource allocation solution t
 <ins>__Tools & Technology:__</ins>  Witness Horizon, Witness Action Language
 
 
-## Machine Learning
+## PART-2: Machine Learning
 
 ### 6. [Blood Donations Prediction](https://github.com/mahipal-z/Blood-donation-project/blob/main/BloodTransfusion.ipynb)
 ----
