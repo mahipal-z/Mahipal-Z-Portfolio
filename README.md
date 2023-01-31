@@ -31,7 +31,7 @@ __Tools & Technology:__  Tableau, Donut charts, Maps
 __Problem Description:__ The objective was to look for insights in the data to devise strategies to drive growth and retention.  
 __Problem Type:__ Data Analysis and Visualization, Sentiment Analysis      
 __Solution:__ I did the exploratory data analysis to answer important business questions on app categories, size, and pricing on Google Play Store. Cleaned and merged tables to explore the user ratings and plotted sentiment polarity score.     
-__Impact:__ The findings from this analysis can help decide what type of apps to develop, how much it should be priced and identify what makes users happy.
+__Impact:__ The findings from this analysis can help decide what type of apps to develop, how much it should be priced and identify what makes users happy.  
 __Tools & Technology:__  Relational databases, Python, Pandas, Plotly  
 
 ### 5. Simulation of Airport Check-in System
@@ -39,8 +39,7 @@ __Tools & Technology:__  Relational databases, Python, Pandas, Plotly
 __Problem Description:__ The goal was to measure the effect of various factors on real time performance of an airport’s check-in operations. Additionally, management wanted to have a strategy that can minimize the operations cost without hurting the customer satisfaction score.    
 __Problem Type:__ Data Visualization, System Engineering, Operation Research      
 __Solution:__ Using data collected for a week, I built and executed a model in a simulation software that can report a real-time percentage of passengers satisfied/dissatisfied by using the airport check-in service.
-Also, provided an experimenter tool that provides resource allocation solution that improved customer service with minimum cost. 
-     
+Also, provided an experimenter tool that provides resource allocation solution that improved customer service with minimum cost.      
 __Impact:__ For the given business case, the model saved $190,000 in opportunity cost and $255,000 of operations cost.  
 __Tools & Technology:__  Witness Horizon, Witness Action Language
 
@@ -51,8 +50,7 @@ __Tools & Technology:__  Witness Horizon, Witness Action Language
 ----
 __Problem Description:__ The dataset owners are interested in predicting if past blood donors will donate again during the next collection date as part of an effort to forecast blood supply to mitigate potential supply shortages.      
 __Problem Type:__ Supervised Learning, Binary Classification        
-__Solution:__ By performing in-depth data cleaning and training and testing several classifiers, including Logistic Regression and K-Nearest Neighbors with Repeated Stratified K-Fold cross validation, I produced a model that outperforms the ZeroR baseline accuracy by 5.3%.   
-     
+__Solution:__ By performing in-depth data cleaning and training and testing several classifiers, including Logistic Regression and K-Nearest Neighbors with Repeated Stratified K-Fold cross validation, I produced a model that outperforms the ZeroR baseline accuracy by 5.3%.        
 __Impact:__ This model offers the Blood Transfusion Service Center in Hsin-Chu City in Taiwan a more realistic estimate of the number of donors to expect, allowing them to derive a more accurate forecasting of future blood supply and take appropriate action to address potential shortages.    
 __Tools & Technology:__  Python, Scikit-Learn, Jupyter Notebook   
 
