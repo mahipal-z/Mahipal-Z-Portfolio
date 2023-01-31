@@ -28,7 +28,7 @@
 <ins>__Impact:__</ins> The report provides a sneak peek of sales and profit numbers in different regions of the United States with filtering ability to categorize and group data.   
 <ins>__Tools & Technology:__</ins>  __Tableau__, Donut charts, Maps  
 
-<img src="https://github.com/mahipal-z/Mahipal-s-Portfolio/blob/main/images/tableau.PNG" width="550" height="400">
+<img src="/images/tableau.PNG" width="550" height="400">
 
 ### [4. Comprehensive analysis of the android app market by comparing over 10,000 apps in Play Store](https://github.com/mahipal-z/playstore-apps-eda/blob/main/Android%20App%20Market%20EDA.ipynb)
 ----
@@ -38,7 +38,7 @@
 <ins>__Impact:__</ins> The findings from this analysis can help decide what type of apps to develop, how much it should be priced and identify what makes users happy.  
 <ins>__Tools & Technology:__</ins>  Relational databases, Python, Pandas, Plotly    
 
-![](https://github.com/mahipal-z/Mahipal-s-Portfolio/blob/main/images/playstore.PNG)
+![](/images/playstore.PNG)
 
 ### 5. Simulation of Airport Check-in System  
 ----
@@ -60,7 +60,7 @@ Also, provided an experimenter tool that provides resource allocation solution t
 <ins>__Impact:__</ins> This model offers the Blood Transfusion Service Center in Hsin-Chu City in Taiwan a more realistic estimate of the number of donors to expect, allowing them to derive a more accurate forecasting of future blood supply and take appropriate action to address potential shortages.    
 <ins>__Tools & Technology:__</ins>  Python, Scikit-Learn, Jupyter Notebook  
 
-<img src="https://github.com/mahipal-z/Mahipal-s-Portfolio/blob/main/images/blood.PNG" width="600" height="450">
+<img src="/images/blood.PNG" width="600" height="450">
 
 ### 7. [Rating Prediction for a Recipe Website](https://github.com/mahipal-z/Recipe-Rating-Prediction/blob/main/notebook.ipynb)
 ----
@@ -70,7 +70,7 @@ Also, provided an experimenter tool that provides resource allocation solution t
 <ins>__Impact:__</ins> The model can help strategize future content publication, forecast user ratings, and increase website traffic.       
 <ins>__Tools & Technology:__</ins>  Jupyter Notebooks, DataCamp dataset, Pandas, nltk library, Scikit-learn  
 
-![](https://github.com/mahipal-z/Mahipal-s-Portfolio/blob/main/images/recipe.PNG)  
+![](/images/recipe.PNG)  
 
 ### 8. [Predicting Credit Card Approvals using a UCI Machine Learning Repository dataset](https://github.com/mahipal-z/Credit-card-approval-prediction/blob/main/notebook.ipynb)
 ----
@@ -80,7 +80,7 @@ Also, provided an experimenter tool that provides resource allocation solution t
 <ins>__Impact:__</ins> The model automates the initial screening process of credit card application, saving banks time and resources.         
 <ins>__Tools & Technology:__</ins>  Jupyter Notebooks, Pandas, Numpy, Scikit-learn  
 
-![](https://github.com/mahipal-z/Mahipal-s-Portfolio/blob/main/images/credit.PNG)  
+![](/images/credit.PNG)  
 
 ### 9. Performance prediction of Laboratory equipment  
 ----
