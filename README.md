@@ -52,7 +52,7 @@ __Solution:__ By performing in-depth data cleaning and training and testing seve
 __Impact:__ This model offers the Blood Transfusion Service Center in Hsin-Chu City in Taiwan a more realistic estimate of the number of donors to expect, allowing them to derive a more accurate forecasting of future blood supply and take appropriate action to address potential shortages.    
 __Tools & Technology:__  Python, Scikit-Learn, Jupyter Notebook   
 
-### 6. Rating Prediction for a Recipe Website
+### 7. Rating Prediction for a Recipe Website
 ----
 __Problem Description:__ An online recipe start-up owners wanted to increase website traffic by publishing recipes that are likely to receive high user ratings. To do so, they want to avoid publishing recipes with potentially low ratings. They wanted to know if it is possible to detect recipe ratings using past data.     
 __Problem Type:__ Binary Classification, Natural Language Processing        
@@ -60,7 +60,7 @@ __Solution:__ Using NLP techniques to extract features from recipes' text, dimen
 __Impact:__ The model can help strategize future content publication, forecast user ratings, and increase website traffic.       
 __Tools & Technology:__  Jupyter Notebooks, DataCamp dataset, Pandas, nltk library, Scikit-learn  
 
-### 6. Predicting Credit Card Approvals using a UCI Machine Learning Repository dataset
+### 8. Predicting Credit Card Approvals using a UCI Machine Learning Repository dataset
 ----
 __Problem Description:__ The project's objective was to reduce the time and cost of the credit card application screening process. This cost reduction will allow banking clients to offer online financial advising services for free to new customers opting for an upgraded credit card account.       
 __Problem Type:__ Binary Classification, Financial Analysis, Risk Analysis        
@@ -68,7 +68,7 @@ __Solution:__ After one-hot encoding, and mean imputation on dataset, I develope
 __Impact:__ The model automates the initial screening process of credit card application, saving banks time and resources.         
 __Tools & Technology:__  Jupyter Notebooks, Pandas, Numpy, Scikit-learn  
 
-### 7. Performance prediction of Laboratory equipment
+### 9. Performance prediction of Laboratory equipment
 ----
 __Problem Description:__ Fluid mechanics lab costs much time and capital in running same experiments several times during a semester for educational purpose. We wanted to develop a tool that can predict the performance of centrifugal blower, a lab equipment, accurately to avoid performing actual experiments on it.        
 __Problem Type:__ Supervised Learning, Linear Regression          
